@@ -7,6 +7,7 @@ public class Demo {
 		System.out.println("Hello this is git hub");
 		System.out.println("First push success");
 		System.out.println("Change made");
+		System.out.println("Ft2");
 
 	}
 
