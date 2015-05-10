@@ -9,6 +9,7 @@ public class Demo {
 		System.out.println("Made changes for Featur1");
 
 		System.out.println("Change made");
+		System.out.println("Ft2");
 
 
 	}
