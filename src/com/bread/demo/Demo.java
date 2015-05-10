@@ -8,6 +8,9 @@ public class Demo {
 		System.out.println("First push success");
 		System.out.println("Made changes for Featur1");
 
+		System.out.println("Change made");
+
+
 	}
 
 }
